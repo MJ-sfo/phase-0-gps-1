@@ -3,5 +3,5 @@ practice for GPS - Week 1
 
 ## commands used so far !!!
 * push
- * clone
+ * lonely sad faces.
  * save
